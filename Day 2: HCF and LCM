@@ -1,0 +1,42 @@
+# Day 2 – HCF & LCM
+
+Today I practiced HCF (Highest Common Factor) and LCM (Least Common Multiple).
+
+## Topics Practiced
+
+1. Finding Factors
+2. Finding HCF using factors
+3. Finding LCM using factors
+4. HCF and LCM formula
+5. Same Remainder Problems
+6. LCM of Intervals / Bells Problems
+
+## Important Formulas
+
+LCM = (Number 1 × Number 2) / HCF
+
+Same Remainder:
+Find the differences between the numbers,
+then find the HCF of those differences.
+
+## Practice
+
+### Example 1
+Find the HCF of 24 and 36.
+
+Answer: 12
+
+### Example 2
+Find the LCM of 4, 8 and 9.
+
+Answer: 72
+
+### Example 3
+Find the greatest number that divides 69, 222 and 258 leaving the same remainder.
+
+Answer: 9
+
+### Example 4
+The HCF of two numbers is 6 and the numbers are 18 and 54. Find their LCM.
+
+Answer: 162

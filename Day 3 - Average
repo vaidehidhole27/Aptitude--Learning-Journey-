@@ -1,0 +1,60 @@
+# Day 3 – Average
+
+Today I practiced Average in Aptitude.
+
+## Topics Practiced
+
+1. Direct Average
+2. Average → Total
+3. Adding a Number
+4. Removing a Number
+5. Replacement of a Number
+6. Increase in Average
+7. Decrease in Average
+8. Average of Two Groups
+9. Missing Number using Average
+10. Average Speed for Equal Distances
+
+## Important Formulas
+
+Average = Sum of observations / Number of observations
+
+Total = Average × Number of observations
+
+New Average = Old Average + (New Number − Old Number) / Number of observations
+
+For equal distances:
+
+Average Speed = 2ab / (a + b)
+
+## Practice Questions
+
+### Q1. Find the average of 10, 20, 30, 40 and 50.
+Answer: 30
+
+### Q2. The average of 5 numbers is 20. Find their total.
+Answer: 100
+
+### Q3. The average of 3 numbers is 20. If 30 is added, find the new average.
+Answer: 22.5
+
+### Q4. The average of 5 numbers is 18. If 10 is removed, find the new average.
+Answer: 20
+
+### Q5. The average of 5 numbers is 20. If 18 is replaced by 28, find the new average.
+Answer: 22
+
+### Q6. The average of 5 numbers is 20. If each number is increased by 3, find the new average.
+Answer: 23
+
+### Q7. The average of 6 numbers is 25. If each number is decreased by 4, find the new average.
+Answer: 21
+
+### Q8. A person travels equal distances at speeds of 30 km/h and 60 km/h. Find the average speed.
+Answer: 40 km/h
+
+### Q9. The average of 10 students is 20 and the average of 5 students is 30. Find the average of all students.
+Answer: 70/3
+
+### Q10. The average of 5 numbers is 24. Four numbers are 20, 25, 30 and 15. Find the fifth number.
+Answer: 30

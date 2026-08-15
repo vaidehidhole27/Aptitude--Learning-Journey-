@@ -1,0 +1,28 @@
+Day 04 – Problems on Numbers
+
+Topic:
+• Problems on Numbers
+• Sum of Two Numbers
+• Sum of Squares
+• Finding Product of Two Numbers
+
+What I Learned:
+• How to find the product when the sum of two numbers and sum of their squares are given
+• Used the identity (x + y)² = x² + y² + 2xy
+• Learned to identify the given values and apply the formula
+
+Formula:
+• Product = [(Sum)² − Sum of Squares] / 2
+
+Example:
+If the sum of two numbers is 27 and the sum of their squares is 509:
+
+Product = (27² − 509) / 2
+        = (729 − 509) / 2
+        = 220 / 2
+        = 110
+
+Answer: 110
+
+Key Learning:
+First identify the sum and sum of squares, then apply the formula to find the product.

@@ -1,0 +1,49 @@
+Day 05 – Problems on Ages
+
+Type 1: Present Age Ratio → Future Age Ratio → Find Present Age
+
+Question:
+The present ages of A and B are in the ratio 6:5. 4 years hence the ratio of their ages will be 46:39. Find B's present age.
+
+Solution:
+
+Present age of A = 6x
+Present age of B = 5x
+
+4 years hence:
+
+A = 6x + 4
+B = 5x + 4
+
+(6x + 4)/(5x + 4) = 46/39
+
+39(6x + 4) = 46(5x + 4)
+
+234x + 156 = 230x + 184
+
+4x = 28
+
+x = 7
+
+B's present age = 5 × 7 = 35 years
+
+✅ Answer = 35 years
+
+Formula:
+If present ratio = a:b
+
+A = ax
+B = bx
+
+After n years:
+
+A = ax + n
+B = bx + n
+
+Then apply the future ratio.
+
+Rule:
+Present ratio → Assume ages as ax and bx → Add future years → Apply future ratio → Cross multiply → Find x → Find required age.
+
+Key Learning:
+In age-ratio questions, always represent the present ages using x first.

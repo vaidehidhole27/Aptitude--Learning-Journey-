@@ -1,0 +1,77 @@
+Day 07 – Percentage
+
+Type 1: Election / Valid Votes
+
+Question:
+In an election between two candidates, 25% of the votes cast were invalid. The winner got 62% of the valid votes. If 4000 votes were cast, how many valid votes did the loser get?
+
+Solution:
+
+Total votes = 4000
+
+Invalid votes = 25% of 4000
+= 1000
+
+Valid votes = 4000 − 1000
+= 3000
+
+Winner's votes = 62% of 3000
+= 1860
+
+Loser's votes = 3000 − 1860
+= 1140
+
+✅ Answer = 1140
+
+Rule:
+Total votes → Invalid votes → Valid votes → Winner votes → Loser votes
+
+
+Type 2: Price Increase → Consumption Decrease
+
+Question:
+The price of an article rises by 60%. By what percent must consumption fall so that expenditure stays the same?
+
+Solution:
+
+Decrease % = [Increase % ÷ (100 + Increase %)] × 100
+
+= [60 ÷ (100 + 60)] × 100
+
+= 60/160 × 100
+
+= 37.5%
+
+✅ Answer = 37.5%
+
+Rule:
+Price increases → Consumption must decrease to keep expenditure same.
+
+
+Type 3: Less Than → More Than
+
+Question:
+A's salary is 25% less than B's. By what percent is B's salary more than A's?
+
+Solution:
+
+More % = [Less % ÷ (100 − Less %)] × 100
+
+= [25 ÷ (100 − 25)] × 100
+
+= 25/75 × 100
+
+= 100/3%
+
+= 33⅓%
+
+✅ Answer = 100/3%
+
+Rule:
+x% less → [x ÷ (100 − x)] × 100 = % more
+
+
+Key Learning:
+• Election questions: Find valid votes first.
+• Price increase: Consumption decreases to keep expenditure same.
+• Less than and more than percentages are not the same.

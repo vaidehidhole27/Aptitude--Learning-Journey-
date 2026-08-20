@@ -1,0 +1,88 @@
+Day 8 – Profit and Loss
+
+1. Basic Terms
+
+- Cost Price (CP): 
+- Selling Price (SP): 
+- Profit: SP > CP
+- Loss: CP > SP
+
+2. Important Formulas
+
+Profit
+
+Profit = SP − CP
+
+Profit % = (Profit / CP) × 100
+
+Loss
+
+Loss = CP − SP
+
+Loss % = (Loss / CP) × 100
+
+Selling Price
+
+SP = CP × (100 + Profit%) / 100
+
+SP = CP × (100 − Loss%) / 100
+
+Cost Price
+
+CP = SP × 100 / (100 + Profit%)
+
+CP = SP × 100 / (100 − Loss%)
+
+---
+
+3. Example Questions
+
+Example 1 – Profit
+
+A shopkeeper buys an article for ₹500 and sells it for ₹600.
+
+CP = ₹500
+SP = ₹600
+
+Profit = 600 − 500 = ₹100
+
+Profit % = (100 / 500) × 100 = 20%
+
+Example 2 – Loss
+
+An article is bought for ₹800 and sold for ₹720.
+
+CP = ₹800
+SP = ₹720
+
+Loss = 800 − 720 = ₹80
+
+Loss % = (80 / 800) × 100 = 10%
+
+Example 3 – Find SP
+
+CP = ₹1000, Profit = 15%
+
+SP = 1000 × 115 / 100
+SP = ₹1150
+
+---
+
+4. Key Points
+
+- Profit/Loss percentage is always calculated on Cost Price.
+- If SP > CP → Profit
+- If SP < CP → Loss
+- If SP = CP → No Profit, No Loss
+
+5. Practice
+
+1. CP = ₹400, SP = ₹500. Find Profit %.
+2. CP = ₹750, SP = ₹600. Find Loss %.
+3. CP = ₹1200, Profit = 20%. Find SP.
+4. CP = ₹1500, Loss = 10%. Find SP.
+5. SP = ₹960 and Profit = 20%. Find CP.
+
+Key Learning
+
+Profit and Loss questions mainly depend on CP, SP, Profit%, and Loss% formulas. Practice calculations to improve speed and accuracy.

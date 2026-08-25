@@ -1,0 +1,37 @@
+# Day 11 – Chain Rule
+
+## 📌 Concept
+Chain Rule is used when one quantity depends on another through an intermediate variable.
+
+## 📐 Formula
+
+dy/dx = (dy/du) × (du/dx)
+
+## ✏️ Example
+
+Given:
+
+y = u²  
+u = 2x + 3
+
+Using Chain Rule:
+
+dy/dx = 2u × 2
+
+dy/dx = 4u
+
+For x = 5:
+
+u = 2(5) + 3  
+u = 13
+
+Therefore,
+
+dy/dx = 4 × 13  
+dy/dx = 52
+
+## 💡 Key Point
+
+Differentiate step-by-step and multiply the derivatives.
+
+## ✅ Day 11 Completed

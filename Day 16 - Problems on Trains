@@ -1,0 +1,67 @@
+# 🚆 Day 16 – Problems on Trains
+
+## 📌 Overview
+
+Today, I learned **Problems on Trains**, an important topic in Quantitative Aptitude. These problems are based on the concepts of **Speed, Distance, Time, and Relative Speed**.
+
+## 📚 Topics Covered
+
+* Speed, Distance and Time
+* Conversion of km/hr into m/s
+* Train crossing a pole
+* Train crossing a platform
+* Two trains crossing each other
+* Trains moving in the same direction
+* Trains moving in opposite directions
+* Relative Speed
+
+## 🧮 Important Formulas
+
+### 1. Basic Formula
+
+**Speed = Distance / Time**
+
+**Distance = Speed × Time**
+
+**Time = Distance / Speed**
+
+### 2. Speed Conversion
+
+**km/hr to m/s = Speed × 5/18**
+
+**m/s to km/hr = Speed × 18/5**
+
+### 3. Train Crossing a Pole
+
+**Time = Length of Train / Speed of Train**
+
+### 4. Train Crossing a Platform
+
+**Time = (Length of Train + Length of Platform) / Speed**
+
+### 5. Two Trains Moving in Opposite Directions
+
+**Relative Speed = Speed₁ + Speed₂**
+
+**Time = (Length₁ + Length₂) / Relative Speed**
+
+### 6. Two Trains Moving in the Same Direction
+
+**Relative Speed = Speed₁ - Speed₂**
+
+**Time = (Length₁ + Length₂) / Relative Speed**
+
+## 💡 Key Learning
+
+The most important part of train problems is understanding **relative speed** and knowing the total distance that must be covered while crossing an object or another train.
+
+## 🎯 Practice
+
+Today, I practiced different types of train problems, including:
+
+* Crossing a pole
+* Crossing a platform
+* Crossing a man
+* Two trains crossing each other
+* Same and opposite direction questions
+

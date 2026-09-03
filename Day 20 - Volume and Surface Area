@@ -1,0 +1,26 @@
+📦 Day 20 – Volume & Surface Area
+
+Today, I practiced Volume and Surface Area problems as part of my Aptitude Learning Journey.
+
+📚 Topics Covered
+
+- Cube
+- Cuboid
+- Cylinder
+- Cone
+- Sphere
+- Hemisphere
+- Volume calculations
+- Curved Surface Area (CSA)
+- Total Surface Area (TSA)
+- Mixed aptitude problems
+
+🧮 Important Formulas
+
+Solid| Volume| Surface Area
+Cube| a³| TSA = 6a²
+Cuboid| l × b × h| TSA = 2(lb + bh + lh)
+Cylinder| πr²h| CSA = 2πrh
+Cone| ⅓πr²h| CSA = πrl
+Sphere| ⁴⁄₃πr³| 4πr²
+Hemisphere| ⅔πr³| TSA = 3πr²

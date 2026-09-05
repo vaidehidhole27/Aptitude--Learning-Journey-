@@ -1,0 +1,34 @@
+🕐 Day 22 – Clocks
+
+Today, I practiced Clocks problems in Aptitude.
+
+📚 Topics Covered
+
+- Angle between the hour and minute hands
+- Finding the angle at a given time
+- Coinciding of clock hands
+- Opposite hands
+- Hands at right angles
+- Gain and loss of time
+- Clock-based aptitude problems
+
+🧮 Important Formulas
+
+Angle between hands:
+
+Angle = |30H − 5.5M|
+
+Where:
+H = Hour
+M = Minutes
+
+Minute hand movement:
+6° per minute
+
+Hour hand movement:
+0.5° per minute
+
+Relative speed of hands:
+5.5° per minute
+
+Day 22 of my Aptitude Learning Journey 🚀

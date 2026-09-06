@@ -1,0 +1,30 @@
+🔢 Day 23 – Permutations & Combinations
+
+Today, I practiced Permutations and Combinations problems in Aptitude.
+
+📚 Topics Covered
+
+- Fundamental Principle of Counting
+- Factorial
+- Permutations
+- Combinations
+- Arrangements of objects
+- Selection of objects
+- Circular arrangements
+- Repetition-based problems
+
+🧮 Important Formulas
+
+Factorial:
+n! = n × (n−1) × (n−2) × ... × 1
+
+Permutation:
+nPr = n! / (n−r)!
+
+Combination:
+nCr = n! / [r!(n−r)!]
+
+Relation:
+nPr = nCr × r!
+
+Day 23 of my Aptitude Learning Journey 🚀
